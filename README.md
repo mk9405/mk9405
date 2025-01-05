@@ -1,16 +1,27 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Manish kumar</h1>
 
+- 🔭 I’m currently working on React
+- 🌱 I’m currently working on backend
+- 💬 Ask me anything about React 
+- 📫 How to reach me: manish009304@gmail.com
+<!-- 😄 My website: https://thetechbrothers.net
+//- ⚡ Fun fact: I'm comming to teen -->
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/mk9405">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+  </a>
+ 
+</div>
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 <!--
-**mk9405/mk9405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 -->
+
+<br>
+⭐️ From [mk9405](https://github.com/mk9405)
