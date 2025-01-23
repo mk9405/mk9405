@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manish Kumar
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on React Js/ Native
 - 🌱 I’m currently working on backend
 - 💬 Ask me anything about React
 - 📫 How to reach me: [manish009304@gmail.com](mailto:manish009304@gmail.com)
