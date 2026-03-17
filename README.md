@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">🚀 Hi, I'm Manish Kumar!</h1>
-<h3 align="center">MERN Stack Developer | React | Next.js | Node.js</h3>
+<h3 align="center">MERN Stack Developer | React | Next.js | Node.js | Python </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Web+%26+Mobile+Developer;Passionate+about+React+%26+Next.js;Building+Scalable+Applications;Always+Learning+New+Technologies">
