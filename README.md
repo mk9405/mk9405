@@ -31,7 +31,7 @@
 💡 Passionate **MERN Stack Developer** with expertise in building **scalable and high-performance** web & mobile applications.  
 🔹 Experienced in **React.js, Next.js, React Native, Redux, Tailwind CSS** for modern UI/UX.  
 🔹 Backend expert in **Node.js, Express.js, MongoDB** with RESTful API integration.  
-🔹 Backend in **Python** with FastAPI building or integration.
+🔹 Backend in **Python** with FastAPI building or integration.<br />
 🔹 Skilled in debugging, performance optimization, and writing clean, maintainable code.  
 🎯 Always **learning, growing, and open to exciting opportunities**!  
 
