@@ -56,10 +56,11 @@
 ---
 
 ## 🎯 Projects & Contributions  
-🚀 **DestinAI** - A React Native-based **travel and booking** app with **Redux-Saga & TypeScript**  
-💡 **Flick Studios** - Creative design platform using **React.js, Tailwind CSS, Swiper, and Vite**  
-🛒 **WingFi India** - An **eCommerce platform** for power banks, developed with **React & Next.js**  
-📊 **Tges Admin Panel** - Admin panel for **travel booking services**, managing bus, train, flight, hotels, and cabs  
+**DestinAI** - A React Native-based **travel and booking** app with **Redux-Saga & TypeScript**  
+**Flick Studios** - Creative design platform using **React.js, Tailwind CSS, Swiper, and Vite**  
+**WingFi India** - An **eCommerce platform** for power banks, developed with **React & Next.js**  
+**Tges Admin Panel** - Admin panel for **travel booking services**, managing bus, train, flight, hotels, and cabs  
+**Wave Visas** - Immigration platform with **dynamic PDF report generation**, **country-based logic**, and **Next.js + React-PDF integration**
 
 ---
 
